@@ -14,6 +14,7 @@ From the end of `system/core/CodeIgniter.php` you will see this line that good f
 		$OUT->_display();
 	}
 ```
+Read more about hook here https://www.codeigniter.com/userguide3/general/hooks.html
 
 If you dont like using hook, you can look at this 
 ```
